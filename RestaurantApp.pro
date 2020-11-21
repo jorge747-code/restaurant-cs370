@@ -18,6 +18,8 @@ SOURCES += \
     Database_Classes/TableDMO.cpp \
     Database_Classes/databasemanagerarrayq.cpp \
     Updaters/Updater.cpp \
+    Updaters/PartyUpdater.cpp \
+    Updaters/TableUpdater.cpp \
     Widgets/PartyLayoutWidget/PartyLayoutWidget.cpp \
     Windows/AddPartyDialog/AddPartyDialog.cpp \
     Windows/MainWindow/MainWindow.cpp \
@@ -36,6 +38,8 @@ HEADERS += \
     Party.h \
     TableStatusEnum.h \
     Updaters/Updater.h \
+    Updaters/PartyUpdater.h \
+    Updaters/TableUpdater.h \
     Widgets/PartyLayoutWidget/PartyLayoutWidget.h \
     Windows/AddPartyDialog/AddPartyDialog.h \
     Windows/MainWindow/MainWindow.h \
